@@ -2,7 +2,7 @@
   "name": "chai",
   "repo": "virtru/chai",
   "description": "Chai assertions for component",
-  "version": "0.0.1",
+  "version": "1.5.1",
   "keywords": [],
   "dependencies": {},
   "development": {},
